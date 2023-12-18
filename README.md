@@ -10,7 +10,7 @@ The project uses localStorage to store all appointments.
 
 ## Screenshot
 
-![]()
+![andrii-calendar](https://github.com/AndriiMedvediev987/andrii-calendar/assets/144401796/7c688583-b324-469b-9d30-afa1fde333b1)
 
 ## Usage
 
@@ -18,5 +18,5 @@ Go to the code page and download ZIP.
 Unpack ZIP file and open index.html in your browser.
 
 ## Useful links
-[Deploy here]()
-[Repository here]()
+[Deploy here](https://andriimedvediev987.github.io/andrii-calendar/)
+[Repository here](https://github.com/AndriiMedvediev987/andrii-calendar.git)
